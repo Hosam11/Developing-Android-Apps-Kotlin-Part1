@@ -12,8 +12,10 @@ This app demonstrates the following views and techniques:
 * LinearLayout, TextView, EditText, ImageView, and ScrollView 
 * Setting multiple click handlers programmatically
 * Using **data binding** for views to improve performance and eliminate findViewById
+
 ## Code Link
-* <a href="https://github.com/Hosam11/Developing-Android-Apps-with-Kotlin/tree/main/AboutMe "  target="_blank"> **AboutMe app**</a> 
+* <a href="https://github.com/Hosam11/Developing-Android-Apps-with-Kotlin/tree/main/AboutMe "  target="_blank"> **AboutMe App**</a> 
+
 ### Screenshout
 |  | | |
 | :---: |:---:| :---:|
@@ -25,6 +27,10 @@ The ColorMyViews app is a demo game app that lets users click to color boxes and
 This app demonstrates the following views and techniques:
 * Dealing with ConstraintLayout
 * Using chains, aligning objects, using baseline alignment for labels
+
+## Code Link
+* <a href="https://github.com/Hosam11/Developing-Android-Apps-with-Kotlin/tree/main/ColorMyViews"  target="_blank"> **ColorMyViews App**</a> 
+
 ### Screenshout
 |  | | |
 | :---: |:---:| :---:|
