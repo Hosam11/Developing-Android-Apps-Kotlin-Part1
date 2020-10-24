@@ -86,7 +86,7 @@ This app demonstrates the following views and techniques:
 ### Screenshots
 |  | | |
 | :---: |:---:| :---:|
-|![startGame](https://user-images.githubusercontent.com/18370055/96796339-f00e7680-13ff-11eb-8709-8dd9429f84a7.PNG) | ![playingGame](https://user-images.githubusercontent.com/18370055/96796338-f00e7680-13ff-11eb-8b14-ceea8cb2988a.PNG) | ![gameOver](https://user-images.githubusercontent.com/18370055/96796335-ef75e000-13ff-11eb-8571-0990bb0547b0.PNG) |
+|![startGame](https://user-images.githubusercontent.com/18370055/96796339-f00e7680-13ff-11eb-8709-8dd9429f84a7.PNG) | ![playingGame](https://user-images.githubusercontent.com/18370055/96796338-f00e7680-13ff-11eb-8b14-ceea8cb2988a.PNG) | ![gameOver](https://user-images.githubusercontent.com/18370055/97078252-38d65300-15eb-11eb-874b-41c8ed0905de.PNG)|
 
 
 
