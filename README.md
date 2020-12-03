@@ -3,6 +3,7 @@
 __This repo for what I learned in:__ 
 * <a href="https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012" target="_blank">**Android App Development in Kotlin course by Udacity.**</a>  
 * and those codelabs <a href="https://codelabs.developers.google.com/android-kotlin-fundamentals/"  target="_blank"> **Android Kotlin Fundamentals.**</a>
+* here's link to part 2 <a href="https://github.com/Hosam11/Developing-Android-Apps-Kotlin-Part2"  target="_blank"> **Developing Android Apps Kotlin Part2**</a>
 
 ##
 ## 1- Layouts - AboutMe App
